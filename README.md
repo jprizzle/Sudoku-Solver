@@ -1,11 +1,13 @@
-HOW TO USE:
+# Sudoku Solver
+
+### HOW TO USE
 
 1. Select a box to place a number
 2. Press the number and it will automatically be placed. To remove, press Backspace
 3. When all of the numbers have been placed, press the solve button. The solved boxes will appear orange, and the initial boxes will appear black. 
 4. Press the reset button to clear the puzzle.
 
-OTHER INFO:
+### OTHER INFO
 
 This program uses a backtracking algorithm to solve the puzzle. More info on this here:
 
