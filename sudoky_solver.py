@@ -2,7 +2,7 @@ import tkinter as tk
 from functools import partial
 import os
 
-# --------------------------------------Declare formatting variables-----------------------------------------------------
+# --------------------------------------Declare formatting variables----------------------------------------------------
 NUMBER_FONT = "Helvetica"
 NUMBER_SIZE = 20
 PLACED_NUMBER_COLOR = "white"
